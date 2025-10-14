@@ -15,3 +15,20 @@ asyncpg==0.29.0
 sqlalchemy==2.0.23
 geoalchemy2==0.14.2
 psycopg2-binary==2.9.9
+# Geospatial and ML libraries
+rasterio==1.3.9
+geopandas==0.14.1
+shapely==2.0.2
+folium==0.14.0
+matplotlib==3.7.2
+seaborn==0.12.2
+pandas==2.0.3
+requests==2.31.0
+scipy==1.11.1
+# Additional ML libraries
+scikit-learn==1.3.2
+torch==2.1.0
+torchvision==0.16.0
+# Data validation
+pytest==7.4.0
+pytest-cov==4.1.0

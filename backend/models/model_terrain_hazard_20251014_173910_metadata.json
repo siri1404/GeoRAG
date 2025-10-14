@@ -1,0 +1,21 @@
+{
+  "model_id": "terrain_hazard_20251014_173910",
+  "model_version": "v1.0.0",
+  "training_date": "2025-10-14T17:39:10.582888",
+  "input_size": 10,
+  "num_samples": 1000,
+  "train_samples": 600,
+  "val_samples": 200,
+  "test_samples": 200,
+  "metrics": {
+    "accuracy": 0.91,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1_score": 0.0,
+    "auc": 0.8235653235653235,
+    "uncertainty_mae": 0.2577648162841797
+  },
+  "version": "terrain_hazard_20251014_173910",
+  "saved_at": "2025-10-14T17:39:10.597869",
+  "model_path": "models\\model_terrain_hazard_20251014_173910.pt"
+}
